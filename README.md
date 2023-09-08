@@ -1,2 +1,2 @@
-# this is the repository for lening git-hub.
+# this is the repository for lerning git-hub.
 Author - Arpan Ghosh.
